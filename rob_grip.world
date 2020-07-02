@@ -3,6 +3,7 @@
   <world name="rob_g_reen">
 	  yellow
 	  red
+	  green
     <include>
       <uri>
         model://robo_gripper/
