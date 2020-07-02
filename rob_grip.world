@@ -1,7 +1,8 @@
 <?xml version="1.0"?>
 <sdf version="1.6">
   <world name="rob_g_reen">
-	yellow
+	  yellow
+	  red
     <include>
       <uri>
         model://robo_gripper/
