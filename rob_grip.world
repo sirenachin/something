@@ -4,6 +4,8 @@
 	  yellow
 	  red
 	  green
+	  blue
+	  ku
     <include>
       <uri>
         model://robo_gripper/
